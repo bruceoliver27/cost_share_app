@@ -1,1 +1,2 @@
-# cost_share_app
+# Read Me
+Repository for Cost Sharing App
